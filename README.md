@@ -52,4 +52,10 @@ To get started with Feedback-Collector-App, follow these steps:
    npm run dev
    ```
 
+
+#### Screenshot
+![1ssGit](https://github.com/RohitGupta1235/CollectorFeedback/assets/94480941/55cc63a8-777a-40e2-a32a-73e5811186ed)
+
+
+
  
